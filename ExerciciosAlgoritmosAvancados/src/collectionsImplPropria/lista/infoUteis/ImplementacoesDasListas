@@ -1,0 +1,18 @@
+Implementações das Listas em aplicações:
+
+- Lista Encadeada:
+	+ Histórico de navegador web
+	+ Gerenciamento de tarefas ou histórico de comandos em um console.
+	
+	
+- Lista Duplamente Encadeada:
+	+ Playlist de Música
+	+ Editor de texto onde é possível fazer/desfazer as operações
+	+ Histórico de revisões em documentos colaborativos
+	+ Sistema de gerenciamento de transações.
+		
+	
+- Lista Circular:
+	+ Jogos de turno(Xadrez, Dama, Jogo da Velha)
+	+ Rotação de elementos em uma animação
+	

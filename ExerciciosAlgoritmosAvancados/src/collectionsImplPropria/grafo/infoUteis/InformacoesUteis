@@ -1,0 +1,19 @@
+Grafo: Estrutura matemática que modela relações entre entidades. Ele é composto por dois elementos principais: nós (ou vértices) e arestas. Os n�s representam entidades individuais, enquanto as arestas indicam conex�es entre essas entidades.
+
+
+Nós(Vértices): Cada nó representa uma entidade específica, como uma cidadem pessoa ou qualquer outr entidade que você esteja modelando. Eles são conectados por meio de arestas.
+
+
+Arestas: Linhas que conectam os nós. Elas representam as relações entre os n�s. Em grafos direcionados, as arestas tem uma direção específica, indicando a rela��o de um n� de origem para um nó de destino. As arestas podem ter pesos, que quantificam alguma característica da relação, como distância, custo, tempo, etc.
+
+
+Ciclos: Uma sequência de arestas que permite retornar ao nó inicial. Se houver um caminho de n�s e arestas que leva de um nó de volta a si mesmo, então existe um ciclo no grafo. Em alguns contextos, ciclos podem representar loops ou circuitos fechados nas rela��es modeladas pelo grafo. Em contraste, grafos acíclicos n�o possuem ciclos.
+
+
+Grafos Acíclicos: Grafos que não contém ciclos. Isso significa que não há nenhum caminho de arestas que permita retornar ao mesmo nó inicial. Em outras palavras, não existem sequ�ncias de conexões que formem um circuito fechado. Grafos acíclicos são frequentemente utilizados para representar estruturas hier�rquicas ou relações direcionais sem loops.
+
+
+Matriz Adjacente: É uma representação bidimensional que mostra as conexões entre os nós de um grafo. Cada linha e coluna da matriz corresponde a um nó específico, e os elementos da matriz indicam se existe uma aresta entre os nós correspondentes. Se o elemento na posição (i, j) for diferente de zero, há uma aresta entre os nós i e j.
+
+
+Lista Adjacente: É uma representação que armazena as conexões entre os nós de um grafo em uma estrutura de lista. Para cada nó, a lista mantém uma coleção de nós aos quais ele está conectado por meio de arestas. Cada nó é associado a uma lista de seus vizinhos. Isso é especialmente útil para grafos esparsos, onde a maioria dos nós não está conectada entre si. 

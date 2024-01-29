@@ -1,0 +1,17 @@
+Ordem das complexidades de algoritmo em ordem crescente:
+
+- O(1): Constante
+- O(log n): Logaritmo
+- O(poly(n, k)): Poli-Logaritmo
+- O(n): Linear
+- O(n log n): Linear-Logaritmo
+- O(n^(2 / 3)): Subcúbica
+- O(log^2 n): Logaritmo ao Quadrado
+- O(n log^2 n): Linear-Logaritmo ao Quadrado
+- O(n^k): Polinomial, onde k é uma constante maior que 1
+- O(2^(n / 2)): Exponencial com raiz quadrada de n
+- O(2^n): Exponencial
+- O(n!): Fatorial
+- O(n^k): Binomial, onde k é uma constante menor que n
+- O(n^(log^* n)): Log^* n (função iterada logarítmica)
+- O(n^log n): n^log n (Algoritmo de Strassen para multiplicação de matrizes)

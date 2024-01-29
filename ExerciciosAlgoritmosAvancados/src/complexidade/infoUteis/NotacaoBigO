@@ -1,0 +1,8 @@
+Notação Big O
+- Descreve a performance de um algoritmo à medida que a entrada aumenta
+- Independente da máquina/sistema/linguagem, os passos são os mesmos para calcular a complexidade do algoritmo
+- Ignore as complexidade constantes: O(1n) -> O(n)
+- n: Representa o tamanho da entrada
+- Existe dois tipos de complexidades, a de tempo e a de espaço:
+	+ Complexidade de Tempo: Quanto leva pro algoritmo ser executado em relação a entrada n
+	+ Complexidade de Espaço: Quanto de espaço o algoritmo consome em relação a entrada n

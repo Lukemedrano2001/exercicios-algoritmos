@@ -1,0 +1,7 @@
+// Data-Hora Local: Ano-Mês-Dia-Hora sem fuso horário, pois a hora é opcional, usado quando o momento exato não interessa para outras pessoas de outro fuso horário
+// Data-Hora Global: Ano-Mês-Dia-Hora com fuso horário, pois a hora é obrigatória, usado quando o momento exato interessa para outras pessoas de outro fuso horário
+// Duração: Tempo ocorrido entre duas data-horas
+// GMT -> Horário de Londres
+// 14:00 horário de Brasília -> 17:00 horário de Londres
+// Ou seja, GMT-3 é o horário de Brasília
+// Em Java, Data-Hora são objetos imutáveis

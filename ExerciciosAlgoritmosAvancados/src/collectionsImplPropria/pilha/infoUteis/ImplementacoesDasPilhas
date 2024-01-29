@@ -1,0 +1,9 @@
+Implementações das Pilhas em aplicações:
+
+
+- Pilha:
+	+ Chamadas de funções/métodos(StackOverFlowError)
+	+ Editor de texto onde é possível fazer/desfazer as operações
+	+ Navegação de Páginas Web
+	+ Validações de Expressões 
+	+ Gerenciamento de Histórico em Softwares

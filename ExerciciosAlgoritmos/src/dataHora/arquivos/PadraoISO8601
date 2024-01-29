@@ -1,0 +1,10 @@
+// Data-Hora Local:
+// 2022-07-01
+// 2022-07-01T14:00
+// 2022-07-01T14:00:00
+// 2022-07-01T14:00:00.0000
+			
+// Data-Hora Global
+// 2022-07-01T14:00:00Z	 -> Horário de Londres
+// 2022-07-01T14:00:00.000000Z	-> Horário de Londres
+// 2022-07-01-03:00	 -> GMT-3 é o horário de Brasília

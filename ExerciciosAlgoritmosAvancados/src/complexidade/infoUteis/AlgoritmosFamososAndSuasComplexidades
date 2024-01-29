@@ -1,0 +1,78 @@
+Algoritmos famosos e suas complexidades de pior caso:
+
+
+- O(1):
+	+ Acesso direto a elementos em uma tabela hash com boa função de hash
+	+ Operações matemáticas usando variáveis
+
+
+- O(log n):
+	+ Busca Binária
+	+ Árvores BST (Bynary Search Tree)
+	+ Árvores AVL
+	+ Árvores B
+	+ Árvores TST(Ternary Search Trees)
+	+ Tabelas Hash
+	+ Árvores de Trie
+	+ Heaps Binomiais
+
+
+- O(poly(n, k)):
+	+ Algoritmo de multiplicação de polinômios
+
+
+- O(n):
+	+ Busca Linear
+	+ Algoritmos Iterativos(Fatorial)
+	+ Algoritmos Recursivos(Fatorial)
+
+
+- O(n log n):
+	+ Merge Sort
+	+ Heap Sort
+	+ QuickSort
+	+ Introsort (Combinação do QuickSort, HeapSort e Insertion Sort)
+
+
+- O(n^(2 / 3)):
+	+ Algoritmos especiais em geometria computacional
+	+ Algoritmo de Ordenação por Cubo (Cubic Sort)
+
+
+- O(n^k):
+	Multiplicação de matrizes (dependendo do valor de k)
+
+
+- O(log^2 n):
+	+ Árvore de Van Emde Boas (utilizada em estruturas de dados avançadas)
+
+
+- O(n log^2 n):
+	+ Algoritmos de ordenação baseados em comparação com complexidade melhorada, como o TimSort.
+
+
+- O(n^k):
+	+ O(n^2): Algoritmos quadráticos, como Bubble Sort, Selection Sort, e Insertion Sort.
+	+ O(n^3): Algoritmos cúbicos, como alguns algoritmos de multiplicação de matrizes.
+	+ O(n^4), O(n^5), etc.: Algoritmos polinomiais de ordem superior.
+
+
+- O(2^(n / 2)):
+	+ Algoritmos de solução exaustiva (força bruta) com poda (branch and bound)
+
+
+- O(2^n):
+	+ Algoritmos Recursivos para o enésimo termo de Fibonacci
+
+
+- O(n!):
+	+ Torre de Hanoi
+	
+	
+- O(n^(log^* n)): 
+	+ Algoritmos que envolvem operações iteradas logarítmicas muitas vezes, como em algumas estruturas de dados avançadas.
+
+
+- O(n^log n):
+	+ Algoritmo de Strassen para multiplicação de matrizes.
+	+ Algoritmos que envolvem divisão e conquista otimizada.
